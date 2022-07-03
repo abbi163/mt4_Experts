@@ -1,0 +1,17 @@
+Fixed_Lot=0
+Lots=0.01000000
+Auto_Risk=3.5
+Max_Orders=1
+Stop_Loss=300
+Take_Profit=900
+Close_by_TimeLimit=1
+TimeLimit=30
+TimeLimit_MinProfit=100
+iNewsFilter=1
+iNewsLow=0
+iNewsModerate=0
+iNewsHigh=1
+iNewsBefore=30
+iNewsAfter=30
+iNewsOffset=2
+MagicNumber=3100037

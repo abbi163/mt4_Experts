@@ -1,0 +1,36 @@
+BBA1====== Volumn ==========================
+FixedLots=0.00000000
+FixedLots,F=0
+FixedLots,1=0.00000000
+FixedLots,2=0.00000000
+FixedLots,3=0.00000000
+LotsPer1000=0.10000000
+LotsPer1000,F=0
+LotsPer1000,1=0.30000000
+LotsPer1000,2=0.00000000
+LotsPer1000,3=0.00000000
+MinLots=0.01000000
+MinLots,F=0
+MinLots,1=0.01000000
+MinLots,2=0.00000000
+MinLots,3=0.00000000
+MaxLots=60.00000000
+MaxLots,F=0
+MaxLots,1=60.00000000
+MaxLots,2=0.00000000
+MaxLots,3=0.00000000
+BBA2====== Entry ========================
+def_MaxSpread=1.20000000
+def_MaxSpread,F=0
+def_MaxSpread,1=1.20000000
+def_MaxSpread,2=0.00000000
+def_MaxSpread,3=0.00000000
+MACD_PARAM=12,26,9
+ICHIMOKU_PARAM=9, 26, 52
+BBA3====== More ===========================
+MyMagicNumber=20190001
+MyMagicNumber,F=0
+MyMagicNumber,1=20190001
+MyMagicNumber,2=0
+MyMagicNumber,3=0
+Comment=Babe Blade Algo v1.00

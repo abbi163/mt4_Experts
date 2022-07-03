@@ -1,0 +1,1212 @@
+Settings================ Settings ===============
+target=50.00000000
+target,F=0
+target,1=50.00000000
+target,2=0.00000000
+target,3=0.00000000
+Lotfix=0.01000000
+Lotfix,F=0
+Lotfix,1=0.01000000
+Lotfix,2=0.00000000
+Lotfix,3=0.00000000
+Balance=1000.00000000
+Balance,F=0
+Balance,1=1000.00000000
+Balance,2=0.00000000
+Balance,3=0.00000000
+MaxSpread=50
+MaxSpread,F=0
+MaxSpread,1=50
+MaxSpread,2=0
+MaxSpread,3=0
+EnableFixedLot=0
+EnableFixedLot,F=0
+EnableFixedLot,1=0
+EnableFixedLot,2=1
+EnableFixedLot,3=1
+Lots=0.01000000
+Lots,F=0
+Lots,1=0.01000000
+Lots,2=0.00000000
+Lots,3=0.00000000
+PanelPosition_X=0
+PanelPosition_X,F=0
+PanelPosition_X,1=0
+PanelPosition_X,2=0
+PanelPosition_X,3=0
+PanelPosition_Y=80
+PanelPosition_Y,F=0
+PanelPosition_Y,1=80
+PanelPosition_Y,2=0
+PanelPosition_Y,3=0
+Currency_Symbol= $
+K=============== Filter News ==============
+FilterNews=0
+FilterNews,F=0
+FilterNews,1=0
+FilterNews,2=1
+FilterNews,3=1
+AfterNewsStop=180
+AfterNewsStop,F=0
+AfterNewsStop,1=180
+AfterNewsStop,2=0
+AfterNewsStop,3=0
+BeforeNewsStop=180
+BeforeNewsStop,F=0
+BeforeNewsStop,1=180
+BeforeNewsStop,2=0
+BeforeNewsStop,3=0
+NewsLight=0
+NewsLight,F=0
+NewsLight,1=0
+NewsLight,2=1
+NewsLight,3=1
+NewsMedium=0
+NewsMedium,F=0
+NewsMedium,1=0
+NewsMedium,2=1
+NewsMedium,3=1
+NewsHard=1
+NewsHard,F=0
+NewsHard,1=0
+NewsHard,2=1
+NewsHard,3=1
+offset=3
+offset,F=0
+offset,1=3
+offset,2=0
+offset,3=0
+NewsSymb=USD,EUR,GBP,CHF,CAD,AUD,NZD,JPY
+DrawLines=1
+DrawLines,F=0
+DrawLines,1=0
+DrawLines,2=1
+DrawLines,3=1
+Next=0
+Next,F=0
+Next,1=0
+Next,2=1
+Next,3=1
+SignalAfterNewsStop=0
+SignalAfterNewsStop,F=0
+SignalAfterNewsStop,1=0
+SignalAfterNewsStop,2=1
+SignalAfterNewsStop,3=1
+W=============== Filter Time ==============
+FilterTime=0
+FilterTime,F=0
+FilterTime,1=0
+FilterTime,2=1
+FilterTime,3=1
+StartTime=10:00
+EndTime=17:30
+Z======================================
+st=Choosing a strategy
+strateg=0
+strateg,F=0
+strateg,1=1
+strateg,2=0
+strateg,3=0
+sm=Enabling the stop
+sm_mode=1
+sm_mode,F=0
+sm_mode,1=0
+sm_mode,2=1
+sm_mode,3=1
+sx=Hedge on all pairs
+sx_mode=0
+sx_mode,F=0
+sx_mode,1=0
+sx_mode,2=1
+sx_mode,3=1
+sg=Parameters for more precise configuration
+sg_mode=0
+sg_mode,F=0
+sg_mode,1=0
+sg_mode,2=1
+sg_mode,3=1
+targetGBPUSD=100
+targetGBPUSD,F=0
+targetGBPUSD,1=90
+targetGBPUSD,2=0
+targetGBPUSD,3=0
+targetEURUSD=300
+targetEURUSD,F=0
+targetEURUSD,1=5
+targetEURUSD,2=0
+targetEURUSD,3=0
+targetEURGBP=100
+targetEURGBP,F=0
+targetEURGBP,1=30
+targetEURGBP,2=0
+targetEURGBP,3=0
+targetUSDCHF=100
+targetUSDCHF,F=0
+targetUSDCHF,1=20
+targetUSDCHF,2=0
+targetUSDCHF,3=0
+targetGBPJPY=100
+targetGBPJPY,F=0
+targetGBPJPY,1=20
+targetGBPJPY,2=0
+targetGBPJPY,3=0
+targetUSDJPY=100
+targetUSDJPY,F=0
+targetUSDJPY,1=20
+targetUSDJPY,2=0
+targetUSDJPY,3=0
+targetGBPCHF=100
+targetGBPCHF,F=0
+targetGBPCHF,1=20
+targetGBPCHF,2=0
+targetGBPCHF,3=0
+targetEURCHF=100
+targetEURCHF,F=0
+targetEURCHF,1=20
+targetEURCHF,2=0
+targetEURCHF,3=0
+targetEURJPY=100
+targetEURJPY,F=0
+targetEURJPY,1=20
+targetEURJPY,2=0
+targetEURJPY,3=0
+targetUSDCAD=100
+targetUSDCAD,F=0
+targetUSDCAD,1=20
+targetUSDCAD,2=0
+targetUSDCAD,3=0
+targetEURCAD=100
+targetEURCAD,F=0
+targetEURCAD,1=20
+targetEURCAD,2=0
+targetEURCAD,3=0
+targetAUDUSD=100
+targetAUDUSD,F=0
+targetAUDUSD,1=20
+targetAUDUSD,2=0
+targetAUDUSD,3=0
+targetEURAUD=100
+targetEURAUD,F=0
+targetEURAUD,1=20
+targetEURAUD,2=0
+targetEURAUD,3=0
+targetNZDUSD=100
+targetNZDUSD,F=0
+targetNZDUSD,1=20
+targetNZDUSD,2=0
+targetNZDUSD,3=0
+targetEURNZD=100
+targetEURNZD,F=0
+targetEURNZD,1=20
+targetEURNZD,2=0
+targetEURNZD,3=0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  
+
+
+
+
+
+
+FOREX EXPERT ADVISORS,
+BINARY and MANUAL TRADING SYSTEM 
+ALL UNLIMITED VERSION  FREE & PAID
+Channel : https://t.me/fxyashwinstore
+Channel : https://t.me/fxyashwinbest2022
+Telegram Conact : @realprofitbo
+Email : realprofitbo@gmail.com
+
+
+DEAR MEMBERS KEEP SUPPORT FOR ALL🙏🙏  

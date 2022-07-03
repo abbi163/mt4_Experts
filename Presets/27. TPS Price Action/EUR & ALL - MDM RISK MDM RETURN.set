@@ -1,0 +1,59 @@
+Company_Name=Trading Public School
+Website=https://www.tradingpublicschool.co.in
+Robot_Name=TPS Price Action EA
+Full_Version=https://t.me/Fx_VIP
+Contact_Mail_ID=tradingpublicschool@gmail.com
+Whatsapp_Number=+91-7478046145
+Latest_Version=5.10
+A1==========================================================================================================
+A2==========================================================================================================
+TRADE_SETTINGS=--------------- TRADE SETTINGS ---------------
+Defender_Magic_Number=1111
+TradeComment=www.fx-vip.pro - Free EA
+maxBuys=6
+maxSells=6
+Lots=0.0
+Percent_Risk=0.5
+stealthSLTP=true
+Defender_TakeProfit_BUY=100.0
+Defender_TakeProfit_SELL=100.0
+Defender_StopLoss_BUY=20.0
+Defender_StopLoss_SELL=20.0
+Defender_Slippage=30
+maxSpread=20
+profitTarget=0.0
+B1==========================================================================================================
+B2==========================================================================================================
+PANEL_SETTINGS=--------------- INFO PANEL SETTINGS ---------------
+drawProfit=true
+drawMagic=true
+drawButtons=true
+B102==========================================================================================================
+B201==========================================================================================================
+INDICATOR_SETTINGS=--------------- INDICATOR SETTINGS ---------------
+AO_Timeframe=240
+useRSI=false
+RSI_Timeframe=0
+RSI_Period=2
+RSI_PriceMode=6
+RSI_Level_High=70
+RSI_Level_Low=30
+B101==========================================================================================================
+B202==========================================================================================================
+SL_TP_TSL_SETTINGS=--------------- SL_TP_TSL_SETTINGS ---------------
+TakeProfit=1000
+StopLoss=200
+SLnTPMode=1
+LockProfitAfter=20
+ProfitLock=10
+TrailingStopMethod=2
+TrailingStop=30
+TrailingStep=10
+ChartSymbolSelection=0
+inpEnableAlert=false
+A11==========================================================================================================
+A22==========================================================================================================
+TIME_FRAME=5 MIN *or* Use Higher Time-Frame for More Accuracy
+copyright=Copyright 2021, Trading Public School
+B11==========================================================================================================
+B22==========================================================================================================

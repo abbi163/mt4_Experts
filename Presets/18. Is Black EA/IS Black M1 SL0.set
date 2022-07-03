@@ -1,0 +1,10 @@
+Risk=0.01
+StopLossProcent=0.0
+TakeProfit=500
+Step=20
+StepTrallProfit=20.0
+MaxOrdersInGrid=20
+TimeStart=3.0
+TimeEnd=23.0
+PipsStep=8
+Magic=2022.0

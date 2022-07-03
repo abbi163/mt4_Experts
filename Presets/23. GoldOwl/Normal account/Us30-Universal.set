@@ -1,0 +1,151 @@
+Version__=----------------------------------------------------------------
+Version1__=-----------------GOLDENOWLEA V9 --------------------------------
+Version2__=FREE EA, Indicators => ForexCracked.com
+InpChartDisplay__=------------------------Display Info--------------------
+InpChartDisplay=1
+InpDisplayInpBackgroundColor=1
+InpBackgroundColor=0
+hint2=--------- Max Trades & Hard SL --------------
+MaxBuy=0
+MaxSell=0
+HardSL=0
+Switches=--------------------------- Switches --------------------------- 
+InpManualInitGrid=0
+InpOpenNewOrders=1
+OpenNewOrdersGrid=1
+InpCloseAllNow=0
+Magic=--------Magic Number Engine---------
+Magic_=--------If all the engines are disabled runs a motor in buy and sell ---------
+InpEnableEngineA=1
+InpMagic=920513
+InpEnableEngineB=1
+InpMagic2=315029
+ConfigLOTE__=---------------------------Config Lot INIT--------------------------------------
+InpLotMode=1
+InpFixedLot=0.10000000
+InpPercentLot=1.00000000
+InpTakeProfit=1000
+GOLDENOWLEA_ConfigGrid__=---------------------------Config Grid--------------------------------------
+TypeGridLot=3
+InpGridSize=1000
+InpGridFactor=1.35700000
+InpGridStepLot=4
+InpMaxLot=2.00000000
+InpHedgex=2
+GridAllDirect=0
+FilterOpenOneCandle__=--------------------Filter One Order by Candle--------------
+InpOpenOneCandle=0
+InpTimeframeBarOpen=0
+MinimalProfitClose__=--------------------Minimal Profit Close/ Protect Grid --------------
+InpEnableMinProfit=0
+ProtectGridLastFist=0
+MinProfit=0.00000000
+QtdTradesMinProfit=0
+Config__=---------------------------Config--------------------------------------
+InpHedge=0
+InpDailyTarget=0
+MovingAverageConfig__=-----------------------------Moving Average-----------------------
+InpMaFrame=0
+InpMaPeriod=34
+InpMaMethod=1
+InpMaPrice=1
+InpMaShift=0
+HILOConfig__=-----------------------------HILO--------------------
+EnableSinalHILO=1
+InpHILOFilterInverter=0
+InpHILOFrame=0
+InpHILOPeriod=3
+InpHILOMethod=1
+InpHILOShift=0
+TrailingStop__=--------------------Trailling Stop--------------
+InpUseTrailingStop=1
+InpTrailStart=100
+InpTrailStop=20
+BreakEven=--------------------Break Even--------------
+InpUseBreakEven=0
+InpBreakEvenStart=0
+InpBreakEvenStep=0
+TakeEquitySTOP__=------------------------Take  Equity STOP ---------------
+InpUseTakeEquityStop=0
+InpProfitCloseandSTOP=0.00000000
+FilterSpread__=----------------------------Filter Max Spread--------------------
+InpMaxSpread=50000
+EquityCaution__=------------------------Filter Caution of Equity ---------------
+InpUseEquityCaution=1
+InpTotalEquityRiskCaution=0.50000000
+InpTimeframeEquityCaution=60
+EquitySTOP__=------------------------Filter  Equity STOP ---------------
+InpUseEquityStop=1
+InpTotalEquityRisk=1.00000000
+InpAlertPushEquityLoss=0
+InpCloseAllEquityLoss=1
+InpCloseRemoveEA=0
+NEWS=----------------------------Filter News Investing.com----------------------
+UseNewsFilter=1
+NewsClose=1
+_comment1= ----------- News settings ----------- 
+LowNews=1
+LowIndentBefore=10
+LowIndentAfter=10
+MidleNews=1
+MidleIndentBefore=10
+MidleIndentAfter=10
+HighNews=1
+HighIndentBefore=10
+HighIndentAfter=10
+NFPNews=1
+NFPIndentBefore=10
+NFPIndentAfter=10
+DrawNewsLines=1
+LowColor=65535
+MidleColor=36095
+HighColor=255
+LineWidth=1
+LineStyle=2
+TimeFilter__=-------------------------Filter DateTime---------------------------
+InpUtilizeTimeFilter=1
+InpTrade_in_Monday=1
+InpTrade_in_Tuesday=1
+InpTrade_in_Wednesday=1
+InpTrade_in_Thursday=1
+InpTrade_in_Friday=1
+InpStartHour=01:30
+InpEndHour=22:55
+_Visor1_=-----------------------------Visor 1 --------------------
+Visor1_Show_the_Time=1
+Visor1_Show_the_Price=1
+Visor1_Price_Up_Color=64636
+Visor1_Price_Down_Color=4678655
+Visor1_Price_X_Position=10
+Visor1_Price_Y_Position=10
+Visor1_Price_Size=20
+Visor1_Porcent_X_Position=10
+Visor1_Porcent_Y_Position=70
+Visor1_Porcent_Size=20
+Visor1_Symbol_X_Position=10
+Visor1_Symbol_Y_Position=40
+Visor1_Symbol_Size=20
+Visor1_Chart_Timezone=-5
+Visor1_Time_Color=65535
+Visor1_Time_Size=17
+Visor1_Time_X_Position=10
+Visor1_Time_Y_Position=10
+Visor1_Spread_Size=10
+Visor1_Spread_X_Position=10
+Visor1_Spread_Y_Position=100
+
+
+??For More Free EA, Indicators, Trading Systems, Video course Vist
+>>>>> https://ForexCracked.com
+
+??Join Our Telegram Group To Discus Further About These 
+>>>>> https://t.me/fxcracked
+
+??Join Discord Channel to Download and test Profitable EAs:
+>>>>> https://discord.gg/43P5CRk
+
+??Review your Favorites, Profitable, Scam , fraud EA here
+>>>>> https://www.fxcracked.com/
+
+??Our forum
+>>>>> https://www.JustForForex.com/
