@@ -1,0 +1,11 @@
+Running Night Hunter Pro - the best Night Scalper ever.
+
+EURUSD + GBPUSD + EURCHF
+
+OPEN EU M5, ATTACH ONLY ON PAIR EU
+ALLOW WEB:
+http: //ec.forexprostools.com
+https: //www. worldtimeserver.com
+
+auto lot off : low risk
+balance 100$
