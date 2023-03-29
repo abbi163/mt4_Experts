@@ -1,4 +1,12 @@
-﻿#property copyright "http://tlap.com/forum/";
+// Magic = Ii_0084 (Just change this to magic everywhere and work should be done. )
+// Gd_0048 = (LimitSize / 100);
+
+// TODO: 
+
+// 1. Inside init function , type and variable names are given, and then variables are initialized. Combine them together. 
+// 2. Same as 1, but this time do for void OnTick() function. 
+ 
+#property copyright "http://tlap.com/forum/";
 #property link "http://tlap.com/forum/";
 #property version "";
 #property strict
